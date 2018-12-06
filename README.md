@@ -1,2 +1,2 @@
 # sample
-a sample hello world repository
+a sample hello world repository edited
